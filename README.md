@@ -10,6 +10,7 @@ The project covers **data cleaning, validation, SQL analysis, and Python-based v
 
 ## 🛠️ Tools & Technologies
 
+- Excel
 - MySQL
 - Python
 - Jupyter Notebook
