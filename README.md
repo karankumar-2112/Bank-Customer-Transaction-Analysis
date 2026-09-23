@@ -104,15 +104,3 @@ The analysis provides an overall view of transaction patterns across different t
 
 This project provided practical experience in **MySQL data cleaning and validation, SQL-based analysis, and Python visualization**, while working with real-world data quality issues such as missing values, duplicates, and source-data inconsistencies.
 
----
-
-## 📁 Project Structure
-
-```text
-Bank-Customer-Transaction-Analysis/
-│
-├── Bank Customer & Transaction Analysis.ipynb
-├── bank_transactions_data_clean.csv
-├── Bank_Transaction_Analysis.sql
-└── README.md
-```
